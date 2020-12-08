@@ -37,7 +37,7 @@ prefix = "$"
 # SUPERUSERS
 superusers = ['258084676994990082'] 
 # My user ID was added at Nick's request. Feel free to remove it. This just allows me to remove songs from the playlist in case of spam. Don't remove the entire array, just the ID. 
-# If you want, you can even add other Discord user snowflake ID's here in order to allow them to remove tracks.
+# If you want, you can add more Discord user snowflake IDs here in order to allow them to remove tracks.
 ```
 
 ##### Obtaining discord key:

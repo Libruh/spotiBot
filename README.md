@@ -17,7 +17,7 @@ The bot contains a primary config.py file. This is where you will put your authe
 
 ```
 # SPOTIFY AUTH
-clientID = 'PUT SPOTIFY CLIENTI D HERE '
+clientID = 'PUT SPOTIFY CLIENT ID HERE '
 secretID = 'PUT SPOTIFY SECRET ID HERE'
 redirect = 'PUT SPOTIFY REDIRECT HERE' 
 # Note, this must match what you have configured on the spotify application.
